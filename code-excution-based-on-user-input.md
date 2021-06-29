@@ -2,7 +2,7 @@
 
 ## What i need to do?
 
-```sql
+```tex
 Would you like to continue? no
 Exiting
 
