@@ -2,7 +2,7 @@
 
 ## What i need to do?
 
-```python
+```sql
 Would you like to continue? no
 Exiting
 
