@@ -2,7 +2,7 @@
 
 ## What i need to do?
 
-```python
+```tex
 Today's date?
 December 7th, 2020
 Breakfast calories?
