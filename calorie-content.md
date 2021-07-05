@@ -1,6 +1,6 @@
 # Calorie content
 
-## What i need to do?
+## You need to display the following
 
 ```tex
 Today's date?
