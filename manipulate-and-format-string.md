@@ -2,7 +2,7 @@
 
 ## You need to display the following
 
-```python
+```txt
 # Output:
 first_value = '  FIRST challenge         '
 second_value = '-  second challenge  -'
