@@ -1,4 +1,4 @@
-# Manipulate a string
+# Manipulate and string
 
 ## You need to display the following
 
@@ -34,3 +34,8 @@ print(f"\n \t{fourth_value}")
 print(f" \t{fifth_value}")
 print(f"\t{sixth_value}")
 ```
+
+## Reference
+
+[Exercise](https://docs.microsoft.com/en-us/learn/modules/python-format-strings/5-challenge)
+
