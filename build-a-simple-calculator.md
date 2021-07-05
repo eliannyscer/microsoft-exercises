@@ -68,3 +68,7 @@ else:
     exit()
 print( label, "of", first_number, operation, second_number, "equals", result )
 ```
+
+## Reference
+
+[Exercise](https://docs.microsoft.com/en-us/learn/modules/python-datatypes-numeric-operations/7-challenge-2)
