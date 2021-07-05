@@ -3,7 +3,6 @@
 ## You need to display the following
 
 ```txt
-# Output:
 first_value = '  FIRST challenge         '
 second_value = '-  second challenge  -'
 third_value = 'tH IR D-C HALLE NGE'
