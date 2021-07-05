@@ -1,7 +1,6 @@
 # Code execution based on user input
 
-## What i need to do?
-
+## You need to display the following
 ```tex
 Would you like to continue? no
 Exiting
