@@ -4,7 +4,7 @@
 
 `output`:
 
-```python
+```txt
 Simple calculator!
 First number? 4
 Operation? *
@@ -14,13 +14,13 @@ product of 4 * 5 equals 20
 
 `If users fail to enter a numeric value:`
 
-```python
+```txt
 Please input a number.
 ```
 
 `If users enter an operation that isn't recognized:`
 
-```python
+```txt
 Operation not recognized.
 ```
 
