@@ -2,8 +2,6 @@
 
 ## You need to display the following
 
-`output`:
-
 ```txt
 Simple calculator!
 First number? 4
