@@ -2,19 +2,19 @@
 
 The mathematical formula for converting a temperature measured in Fahrenheit to a temperature measured in Celsius is shown in the following code:
 
-```python
+```txt
 celsius = (fahrenheit - 32) * 5/9
 ```
 
 ## You need to display the following:
 
-```python
+```txt
 What is the temperature in fahrenheit?  55
 Temperature in celsius is 12
 
 ```
 
-```python
+```txt
 What is the temperature in fahrenheit?  bob
 Input is not a number.
 ```
@@ -46,3 +46,7 @@ fahrenheit = int(fahrenheit)
 celsius = int((fahrenheit - 32) * 5/9)
 print("Temperature in celsius is", celsius)
 ```
+
+## Reference
+
+[Exercise](https://docs.microsoft.com/en-us/learn/modules/python-datatypes-numeric-operations/5-challenge)
